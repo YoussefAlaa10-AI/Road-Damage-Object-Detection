@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# YOLO Training Outputs
+runs/
+project/
+
+# Model Files
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# System Files
+.DS_Store
+Thumbs.db
